@@ -1,0 +1,9 @@
+client UI server 
+API expose trigger(call)
+command line tool
+can I trigger api for
+hairness/io
+
+
+
+			https://community.cloud.databricks.com:443/sql/protocolv1/o/6274889953416892/1106-043358-gents99
